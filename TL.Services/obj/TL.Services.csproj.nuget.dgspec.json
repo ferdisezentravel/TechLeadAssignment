@@ -1,0 +1,175 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/ferdisezen/RiderProjects/TechLeadAssignment/TL.Services/TL.Services.csproj": {}
+  },
+  "projects": {
+    "/Users/ferdisezen/RiderProjects/TechLeadAssignment/TL.Application/TL.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ferdisezen/RiderProjects/TechLeadAssignment/TL.Application/TL.Application.csproj",
+        "projectName": "TL.Application",
+        "projectPath": "/Users/ferdisezen/RiderProjects/TechLeadAssignment/TL.Application/TL.Application.csproj",
+        "packagesPath": "/Users/ferdisezen/.nuget/packages/",
+        "outputPath": "/Users/ferdisezen/RiderProjects/TechLeadAssignment/TL.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ferdisezen/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/ferdisezen/RiderProjects/TechLeadAssignment/TL.Domain/TL.Domain.csproj": {
+                "projectPath": "/Users/ferdisezen/RiderProjects/TechLeadAssignment/TL.Domain/TL.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.417/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ferdisezen/RiderProjects/TechLeadAssignment/TL.Domain/TL.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ferdisezen/RiderProjects/TechLeadAssignment/TL.Domain/TL.Domain.csproj",
+        "projectName": "TL.Domain",
+        "projectPath": "/Users/ferdisezen/RiderProjects/TechLeadAssignment/TL.Domain/TL.Domain.csproj",
+        "packagesPath": "/Users/ferdisezen/.nuget/packages/",
+        "outputPath": "/Users/ferdisezen/RiderProjects/TechLeadAssignment/TL.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ferdisezen/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.417/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ferdisezen/RiderProjects/TechLeadAssignment/TL.Services/TL.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ferdisezen/RiderProjects/TechLeadAssignment/TL.Services/TL.Services.csproj",
+        "projectName": "TL.Services",
+        "projectPath": "/Users/ferdisezen/RiderProjects/TechLeadAssignment/TL.Services/TL.Services.csproj",
+        "packagesPath": "/Users/ferdisezen/.nuget/packages/",
+        "outputPath": "/Users/ferdisezen/RiderProjects/TechLeadAssignment/TL.Services/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ferdisezen/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/ferdisezen/RiderProjects/TechLeadAssignment/TL.Application/TL.Application.csproj": {
+                "projectPath": "/Users/ferdisezen/RiderProjects/TechLeadAssignment/TL.Application/TL.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.417/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

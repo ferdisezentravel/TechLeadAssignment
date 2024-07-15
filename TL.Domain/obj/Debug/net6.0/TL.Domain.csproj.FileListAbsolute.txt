@@ -1,0 +1,12 @@
+/Users/ferdisezen/RiderProjects/TechLeadAssignment/TL.Domain/bin/Debug/net6.0/TL.Domain.deps.json
+/Users/ferdisezen/RiderProjects/TechLeadAssignment/TL.Domain/bin/Debug/net6.0/TL.Domain.dll
+/Users/ferdisezen/RiderProjects/TechLeadAssignment/TL.Domain/bin/Debug/net6.0/TL.Domain.pdb
+/Users/ferdisezen/RiderProjects/TechLeadAssignment/TL.Domain/obj/Debug/net6.0/TL.Domain.csproj.AssemblyReference.cache
+/Users/ferdisezen/RiderProjects/TechLeadAssignment/TL.Domain/obj/Debug/net6.0/TL.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ferdisezen/RiderProjects/TechLeadAssignment/TL.Domain/obj/Debug/net6.0/TL.Domain.AssemblyInfoInputs.cache
+/Users/ferdisezen/RiderProjects/TechLeadAssignment/TL.Domain/obj/Debug/net6.0/TL.Domain.AssemblyInfo.cs
+/Users/ferdisezen/RiderProjects/TechLeadAssignment/TL.Domain/obj/Debug/net6.0/TL.Domain.csproj.CoreCompileInputs.cache
+/Users/ferdisezen/RiderProjects/TechLeadAssignment/TL.Domain/obj/Debug/net6.0/TL.Domain.dll
+/Users/ferdisezen/RiderProjects/TechLeadAssignment/TL.Domain/obj/Debug/net6.0/refint/TL.Domain.dll
+/Users/ferdisezen/RiderProjects/TechLeadAssignment/TL.Domain/obj/Debug/net6.0/TL.Domain.pdb
+/Users/ferdisezen/RiderProjects/TechLeadAssignment/TL.Domain/obj/Debug/net6.0/ref/TL.Domain.dll
